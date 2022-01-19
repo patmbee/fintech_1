@@ -1,0 +1,57 @@
+  
+ 1050  git status
+ 1051  git commit -m "initial commit"
+ 1052  git push
+ 1053  pwd
+ 1054  ls
+ 1055  git status
+ 1056  git add
+ 1057  git add .
+ 1058  git status
+ 1059  git rm .
+ 1060  git rm .DS_Store
+ 1061  git status
+ 1062  git reset
+ 1063  git status
+ 1064  git add .
+ 1065  gti status
+ 1066  git status
+ 1067  git commit -m "First commit"
+ 1068  git push
+ 1069  pwd
+ 1070  ls
+ 1071  cd Challenges-2
+ 1072  ls
+ 1073  python app.py
+ 1074  ls
+ 1075  python app.py
+ 1076  python app.py
+ 1077  pwd
+ 1078  git commit -m "Updates to README file"
+ 1079  git add .
+ 1080  git status
+ 1081  git push
+ 1082  cd ..
+ 1083  ls
+ 1084  git push
+ 1085  cd Challenges-2
+ 1086  git status
+ 1087  git add .
+ 1088  git status
+ 1089  git push
+ 1090  pwd
+ 1091  git add .
+ 1092  git status
+ 1093  git push
+ 1094  git status
+ 1095  git add .
+ 1096  git commit - m "Update of README file"
+ 1097  git add .
+ 1098  git status
+ 1099  git commit -m "Updates to README"
+ 1100  git push
+ 1101  cd ..
+ 1102  ls
+ 1103  cd ..
+ 1104  ls
+ 1105  cd Challenges
